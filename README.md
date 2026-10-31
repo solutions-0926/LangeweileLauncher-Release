@@ -1,6 +1,6 @@
 # Langeweile-Gaming Launcher - Downloads
 
-Aktuelle Version: **2.5.0** (Stand 31.10.2026)
+Aktuelle Version: **2.5.1** (Stand 31.10.2026)
 
 - **Installer:** https://github.com/solutions-0926/LangeweileLauncher-Release/releases/latest/download/LangeweileLauncherSetup.exe
 - **Portable (ZIP):** siehe [Releases](https://github.com/solutions-0926/LangeweileLauncher-Release/releases/latest)
